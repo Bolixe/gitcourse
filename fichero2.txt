@@ -1,1 +1,1 @@
-fichero2
+file2
